@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Lagos%2C+Nigeria;Python+%E2%80%A2+JavaScript+%E2%80%A2+Edge+%26+Cloud;Automation%2C+bots+%26+real-time+systems;Decisions+in+code%2C+not+in+prompts" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=0891B2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Lagos%2C+Nigeria;Python+%E2%80%A2+JavaScript+%E2%80%A2+Edge+%26+Cloud;Automation%2C+bots+%26+real-time+systems;Decisions+in+code%2C+not+in+prompts" alt="typing intro" />
 
 <br/>
 
