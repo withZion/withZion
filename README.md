@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=150&section=header&text=Zion%20O%27JUWONLO&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=builds%20software%20that%20runs%20on%20its%20own%20and%20reports%20back&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="banner" />
+<img src="assets/header.svg" width="100%" alt="Zion O'JUWONLO banner" />
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="developer writing code" />
 
@@ -74,11 +74,6 @@ leisure:    [reading 📚, chess ♟️, football ⚽]
 
 <br/><br/>
 
-```
-$ whoami
-zion@lagos ~ % building things that run while I sleep
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0e7490,100:0f172a&height=90&section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="footer" />
 
 </div>
