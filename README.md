@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Zion O'JUWONLO banner" />
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="developer writing code" />
+<img src="assets/dev.gif" width="300" alt="developer writing code" />
 
 <br/>
 
