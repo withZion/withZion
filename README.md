@@ -2,9 +2,9 @@
 
 <img src="assets/header.svg" width="100%" alt="Zion O'JUWONLO banner" />
 
-<br/>
+<img src="assets/spacer.svg" height="36" alt="" />
 
-<img src="assets/dev.gif" width="300" alt="developer writing code" />
+<img src="assets/dev-light.gif" width="300" alt="developer typing at a laptop" />
 
 <br/>
 
