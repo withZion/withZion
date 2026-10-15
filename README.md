@@ -2,6 +2,8 @@
 
 <img src="assets/header.svg" width="100%" alt="Zion O'JUWONLO banner" />
 
+<br/>
+
 <img src="assets/dev.gif" width="300" alt="developer writing code" />
 
 <br/>
